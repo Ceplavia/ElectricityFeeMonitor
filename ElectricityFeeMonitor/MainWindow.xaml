@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <TextBox x:Name="textBox_loginInfo" HorizontalAlignment="Left" Height="18" Margin="40,22,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="textBox_loginInfo" HorizontalAlignment="Left" Height="61" Margin="40,22,0,0" TextWrapping="Wrap" Text="{}{user: &quot;T41004&quot;, password: &quot;2ay/7lGoIrXLc9KeacM7sg==&quot;}" VerticalAlignment="Top" Width="263"/>
         <Button x:Name="button_temp" Content="Button" HorizontalAlignment="Left" Margin="319,22,0,0" VerticalAlignment="Top" Width="75" Click="button_temp_Click"/>
 
     </Grid>

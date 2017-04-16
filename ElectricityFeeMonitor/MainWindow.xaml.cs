@@ -42,11 +42,19 @@ namespace ElectricityFeeMonitor
             httpRequest.ContentType = "application/json; charset=utf-8";
             Byte[] bytes = Encoding.UTF8.GetBytes(postString);
             httpRequest.ContentLength = bytes.Length;
-            Stream stream = httpRequest.GetRequestStream();
-            stream.Write(bytes, 0, bytes.Length);
-            stream.Close();
-            HttpWebResponse httpResponse = (HttpWebResponse)httpRequest.GetResponse();
+            try
+            {
+                Stream stream = httpRequest.GetRequestStream();
+                stream.Write(bytes, 0, bytes.Length);
+                stream.Close();
+                HttpWebResponse httpResponse = (HttpWebResponse)httpRequest.GetResponse();
+            }
+            catch(Exception expception)
+            {
+                Console.WriteLine(expception.Message);
+            }
             return cookie;
+
         }
         public static string GetContent(CookieContainer cookie,string url)
         {
