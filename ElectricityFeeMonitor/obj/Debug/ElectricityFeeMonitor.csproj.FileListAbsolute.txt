@@ -1,0 +1,1 @@
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe.config
