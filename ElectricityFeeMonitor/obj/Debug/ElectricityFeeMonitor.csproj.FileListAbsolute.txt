@@ -1,16 +1,39 @@
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe.config
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.pdb
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\App.g.cs
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor_MarkupCompile.cache
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor_MarkupCompile.lref
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\MainWindow.baml
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.g.resources
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.Properties.Resources.resources
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.csproj.GenerateResource.Cache
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.exe
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.pdb
+C:\Users\YKW\Documents\Visual Studio 2017\Projects\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.csprojResolveAssemblyReference.cache
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe.config
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.exe
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.pdb
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.pdb
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.dll
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.xml
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.csprojResolveAssemblyReference.cache
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\MainWindow.g.cs
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\App.g.cs
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor_MarkupCompile.cache
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor_MarkupCompile.lref
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.exe
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\ElectricityFeeMonitor.pdb
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.dll
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\bin\Debug\Newtonsoft.Json.xml
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\MainWindow.baml
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.g.resources
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.Properties.Resources.resources
 E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.csproj.GenerateResource.Cache
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.exe
-E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.pdb
+E:\VSproject\ElectricityFeeMonitor\ElectricityFeeMonitor\obj\Debug\ElectricityFeeMonitor.csproj.ResolveComReference.cache

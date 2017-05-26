@@ -4,9 +4,9 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Windows;
 
-// 有关程序集的一般信息由以下
-// 控制。更改这些特性值可修改
-// 与程序集关联的信息。
+// 組件的一般資訊是由下列的屬性集控制。
+// 變更這些屬性的值即可修改組件的相關
+// 資訊。
 [assembly: AssemblyTitle("ElectricityFeeMonitor")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -16,40 +16,40 @@ using System.Windows;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-//将 ComVisible 设置为 false 将使此程序集中的类型
-//对 COM 组件不可见。  如果需要从 COM 访问此程序集中的类型，
-//请将此类型的 ComVisible 特性设置为 true。
+// 將 ComVisible 設為 false 可對 COM 元件隱藏
+// 組件中的類型。若必須從 COM 存取此組件中的類型，
+// 的類型，請在該類型上將 ComVisible 屬性設定為 true。
 [assembly: ComVisible(false)]
 
-//若要开始生成可本地化的应用程序，请
-//<PropertyGroup> 中的 .csproj 文件中
-//例如，如果您在源文件中使用的是美国英语，
-//使用的是美国英语，请将 <UICulture> 设置为 en-US。  然后取消
-//对以下 NeutralResourceLanguage 特性的注释。  更新
-//以下行中的“en-US”以匹配项目文件中的 UICulture 设置。
+//若要開始建置可當地語系化的應用程式，請在
+//.csproj 檔案中的 <UICulture>CultureYouAreCodingWith</UICulture>
+//<UICulture>CultureYouAreCodingWith</UICulture>。例如，如果原始程式檔使用美式英文， 
+//請將 <UICulture> 設為 en-US。然後取消註解下列
+//NeutralResourceLanguage 屬性。在下一行中更新 "en-US"，
+//以符合專案檔中的 UICulture 設定。
 
 //[assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
 
 
 [assembly: ThemeInfo(
-    ResourceDictionaryLocation.None, //主题特定资源词典所处位置
-                                     //(当资源未在页面
-                                     //或应用程序资源字典中找到时使用)
-    ResourceDictionaryLocation.SourceAssembly //常规资源词典所处位置
-                                              //(当资源未在页面
-                                              //、应用程序或任何主题专用资源字典中找到时使用)
+    ResourceDictionaryLocation.None, //主題特定資源字典的位置
+                                     //(在頁面中找不到時使用，
+                                     // 或應用程式資源字典中找不到資源時)
+    ResourceDictionaryLocation.SourceAssembly //泛型資源字典的位置
+                                              //(在頁面中找不到時使用，
+                                              // 或是應用程式或任何主題特定資源字典中找不到資源時)
 )]
 
 
-// 程序集的版本信息由下列四个值组成: 
+// 組件的版本資訊由下列四個值所組成: 
 //
-//      主版本
-//      次版本
-//      生成号
-//      修订号
+//      主要版本
+//      次要版本
+//      組建編號
+//      修訂編號
 //
-//可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
-// 方法是按如下所示使用“*”: :
+// 您可以指定所有的值，或將組建編號或修訂編號設為預設值
+// 指定為預設值: 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

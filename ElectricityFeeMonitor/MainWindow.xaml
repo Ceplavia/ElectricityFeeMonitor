@@ -5,10 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ElectricityFeeMonitor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Electricity Fee Monitor" Height="150.035" Width="324.333" ResizeMode="CanMinimize" StateChanged="Window_StateChanged" Closing="Window_Closing">
     <Grid>
-        <TextBox x:Name="textBox_loginInfo" HorizontalAlignment="Left" Height="61" Margin="40,22,0,0" TextWrapping="Wrap" Text="{}{user: &quot;T41004&quot;, password: &quot;2ay/7lGoIrXLc9KeacM7sg==&quot;}" VerticalAlignment="Top" Width="263"/>
-        <Button x:Name="button_temp" Content="Button" HorizontalAlignment="Left" Margin="319,22,0,0" VerticalAlignment="Top" Width="75" Click="button_temp_Click"/>
-
+        <Label Content="Connection status:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="116" FontFamily="Microsoft YaHei" Height="25"/>
+        <Label x:Name="lOnline" Content="Offline X" HorizontalAlignment="Left" Margin="147,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.476,0.112" Foreground="Red" FontFamily="Microsoft YaHei" FontWeight="Bold" Height="25" FontSize="14"/>
+        <Label Content="Room number:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="27"/>
+        <Label Content="Account balance:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="25"/>
+        <Label x:Name="lBalance" Content="￥0" HorizontalAlignment="Left" Margin="148,72,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="25" Width="63" FontSize="14"/>
+        <TextBox x:Name="textBox_roomNumber" HorizontalAlignment="Left" Height="25" Margin="152,42,0,0" TextWrapping="Wrap" Text="RmNum." VerticalAlignment="Top" Width="64" FontSize="14" IsEnabled="False"/>
+        <Button x:Name="button_edit" Content="Edit" HorizontalAlignment="Left" Margin="232,42,0,0" VerticalAlignment="Top" Width="30" Height="25" Click="button_edit_Click"/>
+        <Button x:Name="button_save" Content="Save" HorizontalAlignment="Left" Margin="267,42,0,0" VerticalAlignment="Top" Width="30" Height="25" Click="button_save_Click" IsEnabled="False"/>
+        <Button x:Name="button" Content="Refresh" HorizontalAlignment="Left" Margin="232,75,0,0" VerticalAlignment="Top" Width="65" Height="25" Click="button_Click"/>
     </Grid>
 </Window>
