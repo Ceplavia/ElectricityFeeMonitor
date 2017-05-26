@@ -6,4 +6,8 @@ Monitor electricity fee automatically by hours. When balance account is less tha
 ---
 ###16/4/2017
 写一个爬电费用的小东西。  
-初步计划每小时抓一次，余额低于30就报警。
+初步计划每小时抓一次，余额低于~~30~~20就报警。  
+
+
+###26/5/2017  
+写完了
