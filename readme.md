@@ -1,6 +1,7 @@
-#Electricity Fee Monitor for Panyu Campus of Jinan University
+#Electricity Fee Monitor for Panyu Campus of Jinan University  
+
 Use for:  
-Monitor electricity fee automatically by hours. When balance account is less than ~~30~~20, send an alert.
+Monitor electricity fee automatically by hours. When balance account is less than ~~30~~20, send an alert.  
 
 
 ---
@@ -10,4 +11,5 @@ Monitor electricity fee automatically by hours. When balance account is less tha
 
 
 ###26/5/2017  
-写完了
+写完了  
+**南校区网络限定。**
