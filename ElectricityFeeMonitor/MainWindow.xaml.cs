@@ -74,6 +74,7 @@ namespace ElectricityFeeMonitor
         }
         private void ShowBalance(object sender, EventArgs e)
         {
+            DataUpdate();
             System.Windows.MessageBox.Show(lBalance.Content.ToString());
         }
         private void Hide(object sender,EventArgs e)

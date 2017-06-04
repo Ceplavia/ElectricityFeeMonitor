@@ -11,7 +11,7 @@
         <Label x:Name="lOnline" Content="Offline X" HorizontalAlignment="Left" Margin="147,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.476,0.112" Foreground="Red" FontFamily="Microsoft YaHei" FontWeight="Bold" Height="25" FontSize="14"/>
         <Label Content="Room number:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="27"/>
         <Label Content="Account balance:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="25"/>
-        <Label x:Name="lBalance" Content="￥0" HorizontalAlignment="Left" Margin="148,72,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="25" Width="63" FontSize="14"/>
+        <Label x:Name="lBalance" Content="￥0" HorizontalAlignment="Left" Margin="144,72,0,0" VerticalAlignment="Top" FontFamily="Microsoft YaHei" Height="25" Width="83" FontSize="14"/>
         <TextBox x:Name="textBox_roomNumber" HorizontalAlignment="Left" Height="25" Margin="152,42,0,0" TextWrapping="Wrap" Text="RmNum." VerticalAlignment="Top" Width="64" FontSize="14" IsEnabled="False"/>
         <Button x:Name="button_edit" Content="Edit" HorizontalAlignment="Left" Margin="232,42,0,0" VerticalAlignment="Top" Width="30" Height="25" Click="button_edit_Click"/>
         <Button x:Name="button_save" Content="Save" HorizontalAlignment="Left" Margin="267,42,0,0" VerticalAlignment="Top" Width="30" Height="25" Click="button_save_Click" IsEnabled="False"/>
