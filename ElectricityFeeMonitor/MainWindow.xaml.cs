@@ -108,6 +108,13 @@ namespace ElectricityFeeMonitor
                 lOnline.Content = "Offline X";
                 lOnline.Foreground = System.Windows.Media.Brushes.Red;
             }
+            FileStream fileStream = new FileStream(AppDomain.CurrentDomain.BaseDirectory + "\\Record.txt", FileMode.OpenOrCreate, FileAccess.Write);
+            StreamWriter streamWriter = new StreamWriter(fileStream);
+            streamWriter.Flush();
+            streamWriter.BaseStream.Seek(0, SeekOrigin.End);
+            streamWriter.WriteLine(DateTime.Now.ToString("f") + "\t" + textBox_roomNumber.Text + "\t" + lBalance.Content);
+            streamWriter.Flush();
+            streamWriter.Close();
         }
         public void timeCheck(object sender, EventArgs e)
         {
@@ -241,6 +248,7 @@ namespace ElectricityFeeMonitor
             textBox_roomNumber.IsEnabled = false;
             button_edit.IsEnabled = true;
             button_save.IsEnabled = false;
+            DataUpdate();
         }
 
         private void button_edit_Click(object sender, RoutedEventArgs e)
